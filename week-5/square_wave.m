@@ -4,7 +4,7 @@ t = linspace(0, 4*pi, 1000);    %time vector should be continuous that why we us
 % Give value to the amplitude
 A = 1;
 
-% Give value to the sequance  -->  Omega(Hz)
+% Give value to the Angular frequency  -->  Omega(Hz)
   w = pi/4;
 
 % Generate a square wave with period 2π and amplitude 1
