@@ -6,7 +6,8 @@
 % Define the timing   
 t = linspace(0,1);
 
-% Define frequency (Here frequency effects a signal a little differently !)
+% Define the growth and decay factor. (Here the growth or decay factor effects a signal how and how faster to change. 
+% This factor has slightly difference than frequency! 
 w_up = 1/2;
 w_down = 6;
 
