@@ -1,6 +1,6 @@
 # Signal and System Design with Matlab
 
-This repository contains a collection of functions, plotting scripts, and problem solutions related to signal and system design using Matlab. Each week's content is organized into its corresponding folder.
+This repository contains a collection of several functions and operations on them, plotting scripts, and problem solutions related to signal and system design using Matlab. Each week's content is organized into its corresponding folder.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ To use the code in this repository, you will need to have Matlab installed on yo
 
 ## Usage
 
-Each week's content is organized into its corresponding folder. Simply navigate to the desired week's folder to access the functions, plotting scripts, and problem solutions. The code is fully commented and documented to help you understand what each piece of code does.
+Each week's content is organized into its corresponding folder. Simply navigate to the desired week's folder to access the functions, plotting scripts, and problem solutions. The code is fully commented and documented to help you understand what each piece of code does and what  the role of the function really is.
 
 ## Contributing
 
