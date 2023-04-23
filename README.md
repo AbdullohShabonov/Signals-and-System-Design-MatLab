@@ -1,7 +1,3 @@
-# Signals-and-System-Design-MatLab
-
-Sure, here's a possible template for a README file for your Signal_and_Syatem_Design_maatlab repository:
-
 # Signal and System Design with Matlab
 
 This repository contains a collection of functions, plotting scripts, and problem solutions related to signal and system design using Matlab. Each week's content is organized into its corresponding folder.
